@@ -4,6 +4,10 @@
     <EntitySetMapping Name="Authors">
       <EntityTypeMapping TypeName="Culinary_BookModel.Authors">
         <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="MailAddress" ColumnName="MailAddress" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
           <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
           <ScalarProperty Name="AuthorName" ColumnName="AuthorName" />
           <ScalarProperty Name="Login" ColumnName="Login" />

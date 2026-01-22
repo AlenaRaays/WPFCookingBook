@@ -17,7 +17,7 @@
         <TextBlock HorizontalAlignment="Center" Margin="0,0,180,40" Width="150" Height="25" TextWrapping="Wrap" Text="Введите пароль" FontSize="16" Foreground="Black"/>
         <PasswordBox HorizontalAlignment="Center" Margin="0,30,0,0" Width="350" Height="30" BorderBrush="Black" FontSize="20" Name="PasswordTxT" />
         <Button HorizontalAlignment="Center" Margin="0,210,0,0" Width="350" Height="40" Name="LogButton"  Background="White" BorderBrush="#FFD8B2B2" Click="Button_Click" Content="Войти" FontSize="15" FontWeight="DemiBold"/>
-        <Button HorizontalAlignment="Center" Margin="0,330,0,0" Width="350" Height="40" Name="RegButton" Background="White" BorderBrush="Black" Content="Зарегестрироваться" FontSize="15" FontWeight="DemiBold"/>
+        <Button HorizontalAlignment="Center" Margin="0,330,0,0" Width="350" Height="40" Name="RegButton" Background="White" BorderBrush="Black" Content="Зарегестрироваться" FontSize="15" FontWeight="DemiBold" Click="RegButton_Click"/>
 
     </Grid>
 </Page>

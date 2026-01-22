@@ -10,5 +10,6 @@ namespace AppCulinaryBook.AppData
     internal class AppFrame
     {
         public static Frame FrameMain;
+        public static Frame RegFraim;
     }
 }

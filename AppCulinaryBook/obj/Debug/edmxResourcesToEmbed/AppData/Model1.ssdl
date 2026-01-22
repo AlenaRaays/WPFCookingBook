@@ -8,6 +8,10 @@
     <Property Name="AuthorName" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="BirthDate" Type="date" />
+    <Property Name="Experience" Type="float" />
+    <Property Name="MailAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="50" />
   </EntityType>
   <EntityType Name="Categories">
     <Key>

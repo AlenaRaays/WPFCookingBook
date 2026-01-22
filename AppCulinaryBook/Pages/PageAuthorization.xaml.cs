@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppCulinaryBook.AppData;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -43,6 +44,19 @@ namespace AppCulinaryBook.Pages
             catch (Exception ex)
             {
                 MessageBox.Show("Ошибка" + ex.Message.ToString(),"Критическая ошибка приложения", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void RegButton_Click(object sender, RoutedEventArgs e)
+        { 
+            try
+            {
+                PageRegistration registration = new PageRegistration();
+                AppFrame.FrameMain.Navigate(registration);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
     }

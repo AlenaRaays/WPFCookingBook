@@ -9,6 +9,10 @@
     <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <NavigationProperty Name="Recipes" Relationship="Self.FK_Recipes_Authors" FromRole="Authors" ToRole="Recipes" />
+    <Property Name="BirthDate" Type="DateTime" Precision="0" />
+    <Property Name="Experience" Type="Double" />
+    <Property Name="MailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
   </EntityType>
   <EntityType Name="Categories">
     <Key>

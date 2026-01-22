@@ -14,22 +14,22 @@
         </Grid.Background>
         <TextBlock HorizontalAlignment="Center" Width="300" Height="35" Margin="0, 0, 0, 490" Text="Регистрация" FontSize="25" TextAlignment="Center" FontWeight="Bold"/>
         <TextBlock HorizontalAlignment="Center" Width="250" Height="20" Margin="0, 0, 50, 400" Text="Введите имя автора" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 350" FontSize="15"/>
+        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 350" Name="AuthorName" FontSize="15"/>
         <TextBlock HorizontalAlignment="Center" Width="250" Height="20" Margin="0, 0, 50, 300" Text="Введите логин" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 250" FontSize="15"/>
+        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 250" Name="AuthorLogin" FontSize="15"/>
         <TextBlock HorizontalAlignment="Center" Width="250" Height="20" Margin="0, 0, 50, 200" Text="Введите пароль" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 150" FontSize="15"/>
-        <TextBlock HorizontalAlignment="Center" Width="250" Height="20" Margin="0, 0, 50, 100" Text="Введите пароль повторно" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 50" FontSize="15"/>
+        <PasswordBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 150" Name="AuthorPassword" FontSize="13"/>
+        <TextBlock HorizontalAlignment="Center" Width="190" Height="20" Margin="0, 0, 110, 100" Name="RepPassTXT" Text="Введите пароль повторно" FontSize="15" FontWeight="DemiBold" Background="#00000000"/>
+        <PasswordBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 0, 0, 50" Name="AuthorPasswordRepite" FontSize="13" PasswordChanged="AuthorPasswordRepite_PasswordChanged"/>
         <TextBlock HorizontalAlignment="Center" Width="115" Height="20" Margin="0, 0, 180, 0" Text="Дата рождения" FontSize="15" FontWeight="DemiBold"/>
-        <DatePicker HorizontalAlignment="Center" Width="120" Height="25" Margin="0, 55, 180, 0" FontSize="12"/>
+        <DatePicker HorizontalAlignment="Center" Width="120" Height="25" Margin="0, 55, 180, 0" Name="AuthorBirthdate" FontSize="12"/>
         <TextBlock HorizontalAlignment="Center" Width="115" Height="20" Margin="180, 0, 0, 0" Text="Стаж" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="120" Height="25" Margin="180, 50, 0, 0" FontSize="15"/>
+        <TextBox HorizontalAlignment="Center" Width="120" Height="20" Margin="180, 50, 0, 0" Name="AuthorExp" FontSize="15"/>
         <TextBlock HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 100, 0, 0" Text="Введите почту" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 150, 0, 0" FontSize="15"/>
+        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 150, 0, 0" Name="AuthorEmail" FontSize="15"/>
         <TextBlock HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 200, 0, 0" Text="Введите телефон" FontSize="15" FontWeight="DemiBold"/>
-        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 250, 0, 0" FontSize="15"/>
-        <Button HorizontalAlignment="Center" Width="300" Height="30" Margin="0, 350, 0, 0" Content="Зарегестрироваться" FontSize="15" BorderBrush="#FFD2A5AD"/>
-        <Button HorizontalAlignment="Center" Width="300" Height="30" Margin="0, 440, 0, 0" Content="Назад" FontSize="15" BorderBrush="Black"/>
+        <TextBox HorizontalAlignment="Center" Width="300" Height="20" Margin="0, 250, 0, 0" Name="AuthorPhone" FontSize="15"/>
+        <Button HorizontalAlignment="Center" Width="300" Height="30" Margin="0, 350, 0, 0" Name="RegBtn" Content="Зарегестрироваться" FontSize="15" BorderBrush="#FFD2A5AD" Click="Button_Click"/>
+        <Button HorizontalAlignment="Center" Width="300" Height="30" Margin="0, 440, 0, 0" Name="RetBtn" Content="Назад" FontSize="15" BorderBrush="Black"/>
     </Grid>
 </Page>
