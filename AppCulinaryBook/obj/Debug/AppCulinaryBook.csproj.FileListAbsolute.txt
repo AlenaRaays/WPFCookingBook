@@ -24,3 +24,5 @@ C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\AppCuli
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\AppCulinaryBook.exe.config
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageRegistration.g.cs
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageRegistration.baml
+C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageTask.g.cs
+C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageTask.baml

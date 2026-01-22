@@ -39,6 +39,8 @@ namespace AppCulinaryBook.Pages
                 else
                 {
                     MessageBox.Show("Здравствуйте,Автор " + userObj.AuthorName + "!", "Уведомление", MessageBoxButton.OK, MessageBoxImage.Information);
+                    PageTask pageTask = new PageTask();
+                    AppFrame.FrameMain.Navigate(pageTask);
                 }
             }
             catch (Exception ex)

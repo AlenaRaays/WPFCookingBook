@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pagetask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pagetask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\appdata\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\appdata\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\appdata\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\appdata\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\appdata\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pageregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\appdata\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\appdata\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageauthorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +39,12 @@
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageauthorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\appdata\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\appdata\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\appdata\\appframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +78,45 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipes.cs",
+              "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Recipes.cs",
+              "RelativeDocumentMoniker": "AppCulinaryBook\\AppData\\Recipes.cs",
+              "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Recipes.cs",
+              "RelativeToolTip": "AppCulinaryBook\\AppData\\Recipes.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:30:42.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Pages\\PageTask.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml.cs",
+              "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageTask.xaml.cs",
+              "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml.cs",
+              "RelativeToolTip": "AppCulinaryBook\\Pages\\PageTask.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:57:21.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageTask.xaml",
+              "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml",
+              "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageTask.xaml",
+              "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml",
+              "RelativeToolTip": "AppCulinaryBook\\Pages\\PageTask.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T13:50:31.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Authors.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Authors.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\AppData\\Authors.cs",
@@ -91,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "PageRegistration.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
@@ -104,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PageAuthorization.xaml",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageAuthorization.xaml",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageAuthorization.xaml",
@@ -116,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "PageAuthorization.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
               "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
               "RelativeToolTip": "AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwCoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T12:54:28.086Z",
               "EditorCaption": ""
@@ -141,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\MainWindow.xaml.cs",
@@ -149,12 +199,11 @@
               "RelativeToolTip": "AppCulinaryBook\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T12:02:16.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T12:02:16.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AppFrame.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\AppFrame.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\AppData\\AppFrame.cs",
@@ -162,12 +211,11 @@
               "RelativeToolTip": "AppCulinaryBook\\AppData\\AppFrame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T13:46:21.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T13:46:21.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Model1.edmx",
               "RelativeDocumentMoniker": "AppCulinaryBook\\AppData\\Model1.edmx",

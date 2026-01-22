@@ -1,0 +1,71 @@
+﻿<Page x:Class="AppCulinaryBook.Pages.PageTask"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AppCulinaryBook.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageTask">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Pages/фон кул книга.jpg" Stretch="UniformToFill" Opacity="0.35"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <ComboBox Name="FilterBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
+            <ComboBox Name="SortBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
+            <ComboBox Name="TextSearchBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
+        </StackPanel>
+
+        <ListView Grid.Row="1" Name="ProductsList" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="400"/>
+                                <ColumnDefinition Width="200"/>
+                            </Grid.ColumnDefinitions>
+                            <Border
+                              
+                                Margin="3"
+                                ClipToBounds="True"
+                                Grid.Column="0" >
+                                <Image Source="{Binding CurrentPhoto}" Stretch="UniformToFill"/>
+                            </Border>
+                            <StackPanel Grid.Column = "1" Orientation="Vertical" HorizontalAlignment="Left">
+                                <TextBlock Height="auto" FontFamily="Arial Black" Text="{Binding RecipeName}"/>
+                                <TextBlock TextWrapping="Wrap" Height="auto" Margin="0, 0, 0, 5" >
+                                    <Run Text="Категория: "/>
+                                    <Run Text="{Binding Categories.CategoryName}"/>
+                                </TextBlock>
+                                <TextBlock TextWrapping="Wrap" Height="auto" Margin="0, 0, 0, 5">
+                                    <Run Text="Автор: "/>
+                                    <Run Text="{Binding Authors.AuthorName}"/>
+                                </TextBlock>
+                                <TextBlock TextWrapping="Wrap" Height="auto" Margin="0, 0, 0, 5">
+                                    <Run Text="Описание: "/>
+                                    <Run Text="{Binding Description}"/>
+                                </TextBlock>
+                            </StackPanel>
+                            <StackPanel Grid.Column="2" Orientation="Vertical" HorizontalAlignment="Center">
+                                <TextBlock>
+                                     <Run Text="Время приготовления: "/>
+                                    <Run Text="{Binding CookingTime}"/>
+                                </TextBlock>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+    </Grid>
+</Page>
