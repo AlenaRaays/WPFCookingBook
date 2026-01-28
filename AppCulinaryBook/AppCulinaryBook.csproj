@@ -199,6 +199,17 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <Resource Include="images\takoyaki.jpg" />
+    <Resource Include="images\ramen.jpg" />
+    <Resource Include="images\yakitori.jpg" />
+    <Resource Include="images\okonomiyaki.jpg" />
+    <Resource Include="images\tempura_shrimp.jpg" />
+    <Resource Include="images\tonkatsu.jpg" />
+    <Resource Include="images\miso_soup.jpg" />
+    <Resource Include="images\california_roll.jpg" />
+    <Resource Include="images\image.png" />
+    <Resource Include="images\sushi_salmon.jpg" />
+    <Resource Include="free-icon-tea-ceremony-673607.png" />
     <Resource Include="Pages\фон кул книга.jpg" />
   </ItemGroup>
   <ItemGroup />

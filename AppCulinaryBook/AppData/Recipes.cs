@@ -31,6 +31,20 @@ namespace AppCulinaryBook.AppData
         public int AuthorID { get; set; }
         public int CookingTime { get; set; }
         public string Image { get; set; }
+        public string CurrentPhoto
+        {
+            get
+            {
+                if (String.IsNullOrEmpty(Image) || String.IsNullOrWhiteSpace(Image))
+                {
+                    return "/images/image.png";
+                }
+                else
+                {
+                    return "/images/" + Image;
+                }
+            }
+        }
     
         public virtual Authors Authors { get; set; }
         public virtual Categories Categories { get; set; }
