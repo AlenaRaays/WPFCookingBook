@@ -31,5 +31,23 @@ namespace AppCulinaryBook.Pages
         {
 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AppFrame.FrameMain.Navigate(new AddRecipe(null));
+        }
+
+        private void ProductsList_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            if (ProductsList.SelectedItem is Recipes selrecipes)
+            {
+                NavigationService.Navigate(new AddRecipe(selrecipes));
+                ProductsList.Items.Refresh();
+            }
+            else
+            {
+                MessageBox.Show("Выделете рецепт");
+            }
+        }
     }
 }

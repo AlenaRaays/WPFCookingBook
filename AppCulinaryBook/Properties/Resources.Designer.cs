@@ -63,9 +63,9 @@ namespace AppCulinaryBook.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
-        internal static byte[] free_icon_tea_ceremony_673607 {
+        internal static byte[] free_icon_tea_ceremony_673607_png {
             get {
-                object obj = ResourceManager.GetObject("free-icon-tea-ceremony-673607", resourceCulture);
+                object obj = ResourceManager.GetObject("free-icon-tea-ceremony-673607.png", resourceCulture);
                 return ((byte[])(obj));
             }
         }

@@ -21,6 +21,7 @@ namespace AppCulinaryBook.Pages
     /// </summary>
     public partial class PageAuthorization : Page
     {
+        public static PageAuthorization authorization;
         public PageAuthorization()
         {
             InitializeComponent();

@@ -26,3 +26,5 @@ C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\P
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageRegistration.baml
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageTask.g.cs
 C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\PageTask.baml
+C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\AddRecipe.g.cs
+C:\Users\10230939\source\repos\AppCulinaryBook\AppCulinaryBook\obj\Debug\Pages\AddRecipe.baml

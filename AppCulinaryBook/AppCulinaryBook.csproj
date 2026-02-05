@@ -129,6 +129,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\AddRecipe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\PageAuthorization.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -143,6 +147,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\AddRecipe.xaml.cs">
+      <DependentUpon>AddRecipe.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\PageAuthorization.xaml.cs">
       <DependentUpon>PageAuthorization.xaml</DependentUpon>
     </Compile>
@@ -199,6 +206,15 @@
       <DependentUpon>Model1.edmx</DependentUpon>
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
+    <Resource Include="free-icon-tea-ceremony-673607.png" />
+    <Resource Include="images\uploadImage.png" />
+    <Resource Include="Pages\uploadImage.png" />
+    <Resource Include="images\chirashi_sushi.jpg" />
+    <Resource Include="images\unagi_don.jpg" />
+    <Resource Include="images\sukiyaki.jpg" />
+    <Resource Include="images\onigiri.jpg" />
+    <Resource Include="images\gyudon.jpg" />
+    <Resource Include="images\mochi.jpg" />
     <Resource Include="images\takoyaki.jpg" />
     <Resource Include="images\ramen.jpg" />
     <Resource Include="images\yakitori.jpg" />
@@ -209,7 +225,6 @@
     <Resource Include="images\california_roll.jpg" />
     <Resource Include="images\image.png" />
     <Resource Include="images\sushi_salmon.jpg" />
-    <Resource Include="free-icon-tea-ceremony-673607.png" />
     <Resource Include="Pages\фон кул книга.jpg" />
   </ItemGroup>
   <ItemGroup />

@@ -26,8 +26,6 @@ namespace AppCulinaryBook
             AppData.AppConnect.culinary_book_entities1 = new AppData.Culinary_BookEntities1();
             AppData.AppFrame.FrameMain = FrameWin;
             FrameWin.Navigate(new Pages.PageAuthorization());
-
-
         }
 
 
