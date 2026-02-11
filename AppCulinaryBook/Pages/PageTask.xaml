@@ -18,9 +18,9 @@
             <RowDefinition Height="1*"/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
-            <ComboBox Name="FilterBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
-            <ComboBox Name="SortBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
-            <ComboBox Name="TextSearchBox" VerticalAlignment="Center" Width="245" SelectionChanged="FilterBox_SelectionChanged" Height="25" Margin="10"/>
+            <ComboBox Name="FilterBox" VerticalAlignment="Center" Width="245" Height="25" SelectionChanged="FilterBox_SelectionChanged" Margin="10"/>
+            <ComboBox Name="SortBox" VerticalAlignment="Center" Width="245" Height="25" SelectionChanged="FilterBox_SelectionChanged" Margin="10"></ComboBox>
+            <TextBox Name="SearchBox" VerticalAlignment="Center" Width="245" Height="25" Margin="10" TextChanged="SearchBox_TextChanged"></TextBox>
         </StackPanel>
 
         <ListView Grid.Row="1" Name="ProductsList" Margin="2,10,18,10" MouseDoubleClick="ProductsList_MouseDoubleClick">

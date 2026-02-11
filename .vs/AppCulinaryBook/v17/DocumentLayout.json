@@ -3,15 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\addrecipe.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\addrecipe.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\pagetask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pagetask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pagetask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -19,20 +15,24 @@
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\appdata\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pagetask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageauthorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageauthorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\addrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|c:\\users\\10230939\\source\\repos\\appculinarybook\\appculinarybook\\pages\\addrecipe.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\addrecipe.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageauthorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageauthorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageregistration.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageauthorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|solutionrelative:appculinarybook\\pages\\pageauthorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F55E4CE2-0CF3-4BE6-8BEA-5293CBAEDAB8}|AppCulinaryBook\\AppCulinaryBook.csproj|C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\appculinarybook\\pages\\pageregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -49,8 +49,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 368,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 384,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AddRecipe.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\AddRecipe.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\AddRecipe.xaml.cs",
               "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\AddRecipe.xaml.cs",
               "RelativeToolTip": "AppCulinaryBook\\Pages\\AddRecipe.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T13:00:39.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AddRecipe.xaml",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\AddRecipe.xaml",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\AddRecipe.xaml",
@@ -95,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Recipes.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Recipes.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\AppData\\Recipes.cs",
               "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\AppData\\Recipes.cs",
               "RelativeToolTip": "AppCulinaryBook\\AppData\\Recipes.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T06:57:07.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PageTask.xaml",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageTask.xaml",
@@ -120,26 +120,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PageTask.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageTask.xaml.cs",
               "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageTask.xaml.cs",
               "RelativeToolTip": "AppCulinaryBook\\Pages\\PageTask.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIAzwDAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAIEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T13:57:21.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "PageRegistration.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
               "ToolTip": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
               "RelativeToolTip": "AppCulinaryBook\\Pages\\PageRegistration.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T11:59:01.861Z",
               "EditorCaption": ""
@@ -158,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PageAuthorization.xaml.cs",
               "DocumentMoniker": "C:\\Users\\10230939\\source\\repos\\AppCulinaryBook\\AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
               "RelativeDocumentMoniker": "AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
@@ -166,8 +166,7 @@
               "RelativeToolTip": "AppCulinaryBook\\Pages\\PageAuthorization.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T12:54:28.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T12:54:28.086Z"
             },
             {
               "$type": "Document",
@@ -184,7 +183,7 @@
           ]
         },
         {
-          "DockedHeight": 32,
+          "DockedHeight": 16,
           "SelectedChildIndex": 0,
           "Children": [
             {
